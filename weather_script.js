@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+import fetch from 'node-fetch';
 
 const apiKey = '64ebeea618bd6496526eed3d784cd3b7';
 const city = 'London';
